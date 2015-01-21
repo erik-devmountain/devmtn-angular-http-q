@@ -1,0 +1,27 @@
+{
+  "name": "devmtn-http-q",
+  "version": "1.0.0",
+  "description": "A repo for teaching about HTTP, Angular's $http, and Angular's $q",
+  "main": "api.js",
+  "dependencies": {
+    "shortid": "^2.1.3",
+    "angular": "^1.3.9"
+  },
+  "devDependencies": {
+    "angular": "^1.3.10",
+    "express": "^4.11.0"
+  },
+  "scripts": {
+    "start": "node api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/murphyrandle/devmtn-angular-http-q.git"
+  },
+  "author": "Murphy Randle",
+  "license": "The do whatever you like license",
+  "bugs": {
+    "url": "https://github.com/murphyrandle/devmtn-angular-http-q/issues"
+  },
+  "homepage": "https://github.com/murphyrandle/devmtn-angular-http-q"
+}
